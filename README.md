@@ -13,7 +13,7 @@ No Spread,
 No Sway,
 Automatic,
 Reload Indicator,
-Fast Shoot,
+Fast Shoot
 
 Visuals -
 Name,
@@ -37,7 +37,7 @@ Tool Cupboard,
 Dropped Items,
 Stashes,
 Airdrops,
-Traps,
+Traps
 
 Misc -
 Always sprint,
@@ -50,4 +50,4 @@ Fake Lag,
 Admin Mode,
 No Collisions,
 Tod Sky,
-Day Time,
+Day Time
